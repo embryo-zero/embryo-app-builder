@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo App Builder
+
+**Embryo App Builder** is Embryo-Zero's fork of [Appsmith](https://github.com/appsmithorg/appsmith), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 <p align="center">
 <a href="https://www.appsmith.com?utm_source=github&utm_medium=organic&utm_campaign=readme">
   <img src="static/appsmith_logo_white.png" alt="Appsmith Logo" width="350">
