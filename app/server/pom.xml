@@ -191,7 +191,7 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-failsafe-plugin</artifactId>
-                <version>3.5.5</version>
+                <version>3.6.1</version>
                 <configuration>
                     <printSummary>true</printSummary>
                     <!-- Allow JUnit to access the test classes -->
