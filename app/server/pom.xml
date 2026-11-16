@@ -35,7 +35,7 @@
         <httpcore5.version>5.4.3</httpcore5.version>
         <!-- Held on the 2.18.x line for CVE-2026-54512 / CVE-2026-54513; 2.18.9 adds
              CVE-2026-59889 / CVE-2026-54515 / GHSA-mhm7-754m-9p8w -->
-        <jackson-bom.version>2.18.9</jackson-bom.version>
+        <jackson-bom.version>2.23</jackson-bom.version>
         <java.version>25</java.version>
         <javadoc.disabled>true</javadoc.disabled>
         <!-- Pin Lombok to 1.18.42 to avoid breaking @FieldNameConstants inner class constructor change in 1.18.44 -->
